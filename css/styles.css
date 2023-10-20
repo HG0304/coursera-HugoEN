@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+.row{
+    margin-bottom: 15px;
+}
+.row .col-md-4{
+    border: 2px solid white;
+    background-color: brown;
+}
